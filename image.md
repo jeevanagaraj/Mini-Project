@@ -1,1 +1,1 @@
-<img src = "C:\Users\jeeva\Documents\repository\Mini-Project\wireframe.jpg">
+<img src = "wireframe.jpg">
